@@ -13,3 +13,5 @@ The following pip installs are required:
 Note this code may be rough but it will get the job done and has lots of features that can be played with (e.g. text and line overlays on charts). 
 
 API reference for CityIQ data can be found at https://docs.cityiq.io. Be forwarned that there are errors in the documentation and no code specific examples are given. The Postman application can be very useful in getting a bootstrap understanding of the API.
+
+You can read the notebook at http://www.inkbear.com/wp-admin/post.php?post=141 along with other tech and art.
